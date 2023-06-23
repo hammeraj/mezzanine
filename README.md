@@ -1,2 +1,2 @@
-# hutch
-Helpers for RabbitMQ
+# mezzanine
+Framework executing Elixir Broadway jobs
